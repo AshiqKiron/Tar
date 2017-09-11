@@ -34,6 +34,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
+= 0.5.3 - September 11 , 2017  =
+- Changed theme description
+
+
 
 = 0.5.2 - August 20 , 2017  =
 - Removed dashboard discount code
