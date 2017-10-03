@@ -34,6 +34,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
+= 0.5.4 - October 04 , 2017  =
+- Changed theme description
+
+
+
+
 = 0.5.3 - September 11 , 2017  =
 - Changed theme description
 
