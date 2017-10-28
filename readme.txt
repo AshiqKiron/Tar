@@ -34,6 +34,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
+= 0.5.5 - October 29 , 2017  =
+- Fixed post navigation padding
+- Fixed home image issue
+
+
+
+
 = 0.5.4 - October 04 , 2017  =
 - Changed theme description
 
