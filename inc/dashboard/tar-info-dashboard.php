@@ -148,6 +148,20 @@ function tar_getting_started() {
 				</div>
 			</div>
 			<div class="clearfix"></div><div class="dashboard_div_divider"></div>
+			<div class="col-md-12 text-block no-bottom-margin">
+				<div class="row">
+					<div class="col-md-7 dashboard-upgrade-left">
+						<h3 style="padding: 0% 5% 2%;text-align: center;font-size: 30px;">What Customers' Saying About Tar Pro</h3>
+					<img style="width: 100%;" src="<?php echo get_template_directory_uri() . '/assets/images/tar-theme-reviews.jpg'; ?>" alt="<?php esc_html_e( 'Tar Theme Review  ', 'tar' ); ?>">
+					</div>
+					<div style="text-align: center;float: none;" class="col-md-5 dashboard-upgrade-right">
+					<h4 style="font-size: 20px;" class="dashboard-upgrade-title">*7 day Money back guarantee.</h4>
+					<span  class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro" target="_blank">Upgrade</a></span>
+					
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div><div class="dashboard_div_divider"></div>
 		</div>
 		</div>
 
@@ -155,7 +169,7 @@ function tar_getting_started() {
 			<div class="row flexify--center">
 				<div class="col-md-7">
 					<h2>Upgrade To Get The Most Out Of Tar</h2>
-					<p>Stop paying for features you will never use. Build a beautiful & lightweight Website with Tar Pro. Upgrade now, comes with 14 refund policy.</p>
+					<p>Stop paying for features you will never use. Build a beautiful & lightweight Website with Tar Pro. Upgrade now, comes with 7 refund policy.</p>
 				</div>
 
 				<div class="col-md-5 dashboard-cta-right">
