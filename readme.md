@@ -35,6 +35,12 @@ ___
 # == Changelog ==
 
 
+##### = 0.5.5 - October 29 , 2017  =
+- Fixed post navigation padding
+- Fixed home image issue
+
+
+
 ##### = 0.5.3 - September 11 , 2017  =
 - Changed theme description
 
