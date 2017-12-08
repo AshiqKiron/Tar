@@ -14,11 +14,15 @@ h1, h2, h3, h4, h5, h6 {
 .intro h2{
     font-size: 2rem;
     color: #394f5a;
+    text-align: center;
 }
+
+.head {text-align: center;}
 
 .intro__version {
 	font-size: 1rem;
     color: #7695a5;
+    text-align: center;
 }
 
 .theme__cta--download--pro {
@@ -91,10 +95,13 @@ h1, h2, h3, h4, h5, h6 {
 .getting-started h2,
 .getting-started h3{
     color: #323b43;
+    margin-top: 0;
+    font-size: 20px;
 }
 .appearance_page_tar-getting-started #wpcontent {background-color:#ffffff;}
 .getting-started__header {margin-bottom: 3rem;}
 
+.dashboard__why_buy {padding-bottom: 5%}
 
 
 .dashboard__block {
@@ -136,6 +143,7 @@ h1, h2, h3, h4, h5, h6 {
     float: left;
     margin-top: -1em;
     padding-left: 5%;
+    width: 40%;
 }
 
 .dashboard_div_divider {

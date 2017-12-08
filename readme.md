@@ -16,7 +16,7 @@ ___
 
 
 
-**Tested up to: 4.8.2**
+**Tested up to: 4.9**
 **License: GPLv2 or later**
 **License URI: http://www.gnu.org/licenses/gpl-2.0.html**
 
@@ -33,6 +33,9 @@ ___
 
 
 # == Changelog ==
+
+##### = 0.5.7 - December 08 , 2017  =
+- Fixed dashboard styling
 
 
 ##### = 0.5.6 - November 11 , 2017  =

@@ -56,11 +56,11 @@ function tar_getting_started() {
 		<div class="getting-started__header">
 		<div class="row">
 			<div class="col-md-5 intro">
-				<h2><?php esc_html_e( 'Welcome to Tar', 'tar' ); ?></h2>
-				<p>Version: <?php echo $theme['Version'];?></p>
-				<span class="intro__version">
+				<h2 class="head"><?php esc_html_e( 'Welcome to Tar', 'tar' ); ?></h2>
+				<p class="head">Version: <?php echo $theme['Version'];?></p>
+				<p class="intro__version head">
 				<?php esc_html_e( 'Thank you for installing Tar! You can now build your own lightweight & blazing fast website within mintues.', 'tar' ); ?> 
-				</span>
+				</p>
 
 			<!-- <div class="club-discount"> 
 				<p><strong> --><?php //esc_html_e( 'Exclusive 15% Discount!', 'tar' ); ?><!-- </strong></p> -->
@@ -154,8 +154,8 @@ function tar_getting_started() {
 						<h3 style="padding: 0% 5% 2%;text-align: center;font-size: 30px;">What Customers' Saying About Tar Pro</h3>
 					<img style="width: 100%;" src="<?php echo get_template_directory_uri() . '/assets/images/tar-theme-reviews.jpg'; ?>" alt="<?php esc_html_e( 'Tar Theme Review  ', 'tar' ); ?>">
 					</div>
-					<div style="text-align: center;float: none;" class="col-md-5 dashboard-upgrade-right">
-					<h4 style="font-size: 20px;" class="dashboard-upgrade-title">*7 day Money back guarantee.</h4>
+					<div style="text-align: center;float: none;" class="">
+					<h4 style="font-size: 20px;text-align: center;" class="dashboard-upgrade-title">*7 day Money back guarantee.</h4>
 					<span  class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro" target="_blank">Upgrade</a></span>
 					
 					</div>
@@ -173,7 +173,7 @@ function tar_getting_started() {
 				</div>
 
 				<div class="col-md-5 dashboard-cta-right">
-					<a class="theme__cta--download--pro" href="<?php echo esc_url('https://asphaltthemes.com/tar#buy_pro'); ?>">Upgrade Now</a>
+					<a target="_blank" class="theme__cta--download--pro" href="<?php echo esc_url('https://asphaltthemes.com/tar#buy_pro'); ?>">Upgrade Now</a>
 					<!-- <a class="theme__cta--demo" href="<?php echo esc_url('demo.atlantisthemes.com'); ?>">Live Demo</a> -->
 				</div>
 			</div>
@@ -185,16 +185,16 @@ function tar_getting_started() {
 			<div class="col-md-4">
 				<h3>Get Support</h3>
 				<ol>
-					<li>Tar <a href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/'); ?>">Documentation</a></li>
-					<li>WordPress.org <a href="<?php echo esc_url('https://wordpress.org/support/theme/tar'); ?>">Support Forum</a></li>
-					<li><a href="<?php echo esc_url('https://asphaltthemes.com/contact/'); ?>">Email Support</a> (Pro Users)</li>
+					<li>Tar <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/'); ?>">Documentation</a></li>
+					<li>WordPress.org <a target="_blank" href="<?php echo esc_url('https://wordpress.org/support/theme/tar'); ?>">Support Forum</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/contact/'); ?>">Email Support</a> (Pro Users)</li>
 				</ol>
 			</div>
 
 			<div class="col-md-4">
 				<h3>Getting Started</h3>
 				<ol>
-					<li>Start <a href="<?php echo esc_url( admin_url('customize.php') ); ?>">Customizing</a> your website</li>
+					<li>Start <a target="_blank" href="<?php echo esc_url( admin_url('customize.php') ); ?>">Customizing</a> your website</li>
 					<li>Upgrade to Pro to unlock all features</li>
 				</ol>
 			</div>
@@ -202,9 +202,9 @@ function tar_getting_started() {
 			<div class="col-md-4">
 				<h3>Theme Documentation</h3>
 				<ol>
-					<li><a href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/how-to-setup-front-page/'); ?>">How To Set up the Front Page</a></li>
-					<li><a href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/'); ?>">Upgrading To Tar Pro</a></li>
-					<li><a href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/basic-site-settings/'); ?>">Basic Site Settings</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/how-to-setup-front-page/'); ?>">How To Set up the Front Page</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/'); ?>">Upgrading To Tar Pro</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/basic-site-settings/'); ?>">Basic Site Settings</a></li>
 				</ol>
 			</div>
 		</div>
