@@ -78,20 +78,42 @@ function tar_getting_started() {
 				<img src="<?php echo get_template_directory_uri() . '/assets/images/front-page-layouts.jpg'; ?>" alt="<?php esc_html_e( 'Why Upgrade To Tar Pro', 'tar' ); ?>" />
 			</div>
 			</div> -->
-			<h3 class="dashboard__why_buy">Why Upgrade To Tar Pro</h3>
+			<h3 class="dashboard__why_buy"><?php esc_attr_e('Why Upgrade To Tar Pro', 'tar'); ?></h3>
 			<div class="col-md-12 text-block" style="padding-top: 2%;">
 			<div class="row">
 					<div class="col-md-7 dashboard-upgrade-left">
 					<img src="<?php echo get_template_directory_uri() . '/assets/images/front-page-layouts.jpg'; ?>" alt="<?php esc_html_e( 'Why Upgrade To Tar Pro', 'tar' ); ?>" />
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
-					<h2 class="dashboard-upgrade-title">Overall 30+ Beautiful Layouts</h2>
+					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Overall 30+ Beautiful Layouts', 'tar'); ?></h2>
 					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro" target="_blank">Upgrade</a></span>
-					<p>Beautiful layouts to create absolutely stunning websites</p>
+					<p><?php esc_attr_e('Beautiful layouts to create absolutely stunning websites', 'tar'); ?></p>
 					<div class="dashboard-upgrade-benefit">
 					<ul>
-						<li>No hassle! Spend less time building website</li>
+						<li><?php esc_attr_e('No hassle! Spend less time building website', 'tar'); ?></li>
 						<li>Check out the <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/tar#demos'); ?>">Tar Demo Templates</a></li>
+					</ul>
+
+					</div>
+					</div>
+			</div>
+			</div>
+
+			<div class="clearfix"></div>
+			<div class="dashboard_div_divider"></div>
+			<div class="col-md-12 text-block no-bottom-margin">
+			<div class="row">
+					<div class="col-md-7 dashboard-upgrade-left">
+					<img src="<?php echo get_template_directory_uri() . '/assets/images/template.png'; ?>" alt="<?php esc_html_e( 'Lots of Templates', 'tar' ); ?>">
+					</div>
+					<div class="col-md-5 dashboard-upgrade-right">
+					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Lots of Templates', 'tar'); ?></h2>
+					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro" target="_blank">Upgrade</a></span>
+					<p>Setup your website within mintues</p>
+					<div class="dashboard-upgrade-benefit">
+					<ul>
+						<li>Say goodbye to complicated site setup</li>
+						<li>Lots of templates at your fingertip</li>
 					</ul>
 
 					</div>
@@ -127,20 +149,20 @@ function tar_getting_started() {
 					<img src="<?php echo get_template_directory_uri() . '/assets/images/customize.jpg'; ?>" alt="<?php esc_html_e( 'Lots of Customization Option', 'tar' ); ?>">
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
-					<h2 class="dashboard-upgrade-title">Lots of Customization Option</h2>
+					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Lots of Customization Option', 'tar' ); ?></h2>
 					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro" target="_blank">Upgrade</a></span>
-					<p>With Tar Pro you get</p>
+					<p><?php esc_attr_e('With Tar Pro you get', 'tar' ); ?></p>
 					<div class="dashboard-upgrade-benefit">
 					<ul>
-						<li>17 Shortcodes</li>
-						<li>500+ Font Awesome Icons</li>
-						<li>300+ Google Fonts</li>
-						<li>Integrated SEO Schema Markup</li>
-						<li>30+ overall layout</li>
-						<li>Drag & Drop Frontpage Sections</li>
-						<li>TinyMCE Buttons for 3 WP default Shortcode</li>
-						<li>6 widget areas</li>
-						<li>10 popular plugin compatibility</li>
+						<li><?php esc_attr_e('17 Shortcodes', 'tar' ); ?></li>
+						<li><?php esc_attr_e('500+ Font Awesome Icons', 'tar' ); ?></li>
+						<li><?php esc_attr_e('300+ Google Fonts', 'tar' ); ?></li>
+						<li><?php esc_attr_e('Integrated SEO Schema Markup', 'tar' ); ?></li>
+						<li><?php esc_attr_e('30+ overall layout', 'tar' ); ?></li>
+						<li><?php esc_attr_e('Drag & Drop Frontpage Sections', 'tar' ); ?></li>
+						<li><?php esc_attr_e('TinyMCE Buttons for 3 WP default Shortcode', 'tar' ); ?></li>
+						<li><?php esc_attr_e('6 widget areas', 'tar' ); ?></li>
+						<li><?php esc_attr_e('10 popular plugin compatibility', 'tar' ); ?></li>
 					</ul>
 
 					</div>
@@ -151,7 +173,7 @@ function tar_getting_started() {
 			<div class="col-md-12 text-block no-bottom-margin">
 				<div class="row">
 					<div class="col-md-7 dashboard-upgrade-left">
-						<h3 style="padding: 0% 5% 2%;text-align: center;font-size: 30px;">What Customers' Saying About Tar Pro</h3>
+						<h3 style="padding: 0% 5% 2%;text-align: center;font-size: 30px;"><?php esc_attr_e('What Customers Saying About Tar Pro', 'tar' ); ?></h3>
 					<img style="width: 100%;" src="<?php echo get_template_directory_uri() . '/assets/images/tar-theme-reviews.jpg'; ?>" alt="<?php esc_html_e( 'Tar Theme Review  ', 'tar' ); ?>">
 					</div>
 					<div style="text-align: center;float: none;" class="">
@@ -187,7 +209,7 @@ function tar_getting_started() {
 				<ol>
 					<li>Tar <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/'); ?>">Documentation</a></li>
 					<li>WordPress.org <a target="_blank" href="<?php echo esc_url('https://wordpress.org/support/theme/tar'); ?>">Support Forum</a></li>
-					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/contact/'); ?>">Email Support</a> (Pro Users)</li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/contact/'); ?>">Email Support</a></li>
 				</ol>
 			</div>
 

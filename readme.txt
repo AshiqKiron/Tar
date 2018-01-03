@@ -33,6 +33,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
+##### = 0.5.8 - January 04 , 2018  =
+- Added demo import dashboard setion
+- Fixed typo
+
+
+
 
 ##### = 0.5.7 - December 08 , 2017  =
 - Fixed dashboard styling
