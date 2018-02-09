@@ -15,7 +15,7 @@ blank_img.jpg: Created by Asphaltthemes and released under GPL v2
 
 
 
-Tested up to: 4.9
+Tested up to: 4.9.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Changelog ==
+
+
+
+##### = 0.5.9 - February 09 , 2018  =
+- Add: Proper CSS vendor prefix
+
+
+
 
 ##### = 0.5.8 - January 04 , 2018  =
 - Added demo import dashboard setion
