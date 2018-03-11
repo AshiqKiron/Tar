@@ -6,7 +6,7 @@ Author URI: https://twitter.com/AshiqKiron
 Description: Tar is a lightweight, bloat-free, simple, multipurpose WordPress theme. You definitely wouldn't be able to do everything with Tar but free version is more than enough to kick start your own website within mintues. Lets you customize most of the element Live with very little code touch. The theme comes with Full width layout, easy Logo upload, powerful theme options, Custom CSS Field & lots of Color options. Tar is 100% responsive built with HTML5 & CSS3, it's SEO friendly, mobile optimized & retina ready, translation ready, ready for WooCommerce. Tar is a Free lightweight fast loading WordPress theme and has been thoroughly tested by WordPress coding standard. It's clean and bloat free and has fast loading time Perfect for - Landing Pages, small business, portfolio, corporate, personal websites.
 
 
-Version: 0.5.9
+Version: 0.6.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: Tar
@@ -636,9 +636,9 @@ a:hover,a:active {outline: 0;}
 	url('http://localhost/wordpresspro/wp-content/themes/tar-pro/assets/images/banner.jpg');
 }
 
-.welcome-text h2{margin: 6% 5% 1% 5%;text-transform: uppercase;font-size: 40px;font-weight: 300;}
-.welcome-text p {text-transform: uppercase;font-size: 12px;color: #fff;clear: both;margin-left: 5%;margin-right: 5%;}
-.welcome-text button {padding: 17px 36px;color: #fff;background: #f44;-webkit-box-shadow: none;box-shadow: none;font-size: 20px;text-transform: uppercase;margin: 1% 5% 5% 5%;border: medium none #f5f5f5;border-radius: 1px;-webkit-transition: all 0.7s ease;
+.welcome-text h2{margin: 6% 5% 1% 5%;text-transform: uppercase;font-size: 55px;font-weight: 300;}
+.welcome-text p {text-transform: uppercase;font-size: 15px;color: #fff;clear: both;margin-left: 5%;margin-right: 5%;}
+.welcome-text button {padding: 23px 30px;color: #fff;background: #aa291f;-webkit-box-shadow: none;box-shadow: none;font-size: 20px;text-transform: uppercase;margin: 1% 5% 5% 5%;border: medium none #f5f5f5;border-radius: 3px;-webkit-transition: all 0.7s ease;
     -o-transition:      all 0.7s ease;
     transition:         all 0.7s ease;}
 
@@ -650,46 +650,46 @@ a:hover,a:active {outline: 0;}
 }
 
 .features-list {padding: 5%;}
-.features-list h4 {text-align: center;font-size: 27px;text-transform: uppercase;margin: 5% 0 4% 0;font-weight: 300;}
+.features-list h4 {text-align: center;font-size: 30px;text-transform: uppercase;margin: 5% 0 4% 0;font-weight: 400;}
 .features-block-one, .features-block-two, .features-block-three {float: left;width: 25%;text-align: center;margin: 0 1% 2%;}
-.block-one-photo, .block-two-photo, .block-three-photo {margin: 0 auto;margin-bottom: 10%;height: 250px;overflow: hidden;}
+.block-one-photo, .block-two-photo, .block-three-photo {margin: 0 auto;margin-bottom: 10%;height: 350px;overflow: hidden;}
 .features-block-wrap {padding: 0 10%;}
-.features-list h3 {font-size: 23px;font-weight: 300;}
+.features-list h3 {font-size: 23px;font-weight: 400;}
 .block-one-photo img,.block-two-photo img,.block-three-photo img {max-width: 100%;height: auto;}
 .features-block-one h3,  .features-block-two h3, .features-block-three h3 {color: #555;}
 .features-block-one p, .features-block-two p, .features-block-three p {color: #666;font-size: 13px;line-height: 24px;}
 .bottom-call {background-size: cover;text-align: center;padding: 10%;clear: both;color: #fff;background-attachment: fixed;background-repeat: no-repeat;background: #21242D;}
 .call-section-one {text-align: center;}
-.call-section-one p {font-size: 30px;margin: 0;}
-.call-section-two button {padding: 15px 30px;color: #fff;background: #2E67EF;-webkit-box-shadow: none;box-shadow: none;font-size: 15px;margin-top: 3%;text-transform: uppercase;border: none;border-radius: 0px;}
+.call-section-one p {font-size: 40px;margin: 0;}
+.call-section-two button {padding: 20px 40px;color: #fff;background: #2E67EF;-webkit-box-shadow: none;box-shadow: none;font-size: 16px;margin-top: 3%;text-transform: uppercase;border: none;border-radius: 2px;-webkit-transition: all 0.3s ease;-o-transition:      all 0.3s ease;transition:         all 0.3s ease;}
 .call-section-two button:hover {background: #4E7DEC;-webkit-transition: all 0.3s ease;-o-transition:      all 0.3s ease;transition:         all 0.3s ease;}
 .call-section-two {text-align: center;}
 .portfolio-wrap {padding: 0 10%;}
-.portfolio {padding: 10% 5%;text-align: center;background:#242943;}
+.portfolio {padding: 10% 5%;text-align: center;background:#080910;}
 .portfolio-one {width: 100%;}
 .image-section img {float: left;width: 33%;height: 300px;}
 .portfolio-image {position: relative;float: left;width: 33%;overflow: hidden; }
 .portfolio-image img {display: block;width: 100%;height: 350px;overflow: hidden;-webkit-transition: all 0.3s ease;-o-transition:all 0.3s ease;transition:all 0.3s ease;}
 
 .portfolio-image img:hover {opacity: 0.8;-webkit-transform: scale(1.3);-ms-transform: scale(1.3);transform: scale(1.3);}
-.portfolio-image .image-section {opacity: 0;position: absolute;bottom: 0px;left: 0px;right: 0px;padding: 2px 0px;color: #ffffff;background: #000000;text-decoration: none;text-align: center;font-size: 13px;
+.portfolio-image .image-section {opacity: 0;position: absolute;bottom: 0px;left: 0px;right: 0px;padding: 15px 10px;color: #ffffff;background: #000000;text-decoration: none;text-align: center;font-size: 15px;
     -webkit-transition: opacity 500ms;
     -o-transition: opacity 500ms;
     transition: opacity 500ms;
     
 }
 .portfolio-image:hover .image-section {opacity: 0.8;}
-.portfolio p {font-size: 30px;color: #fff;text-transform: uppercase;}
-.frontpage-post-blog {background: rgba(29, 36, 42, 0.9);padding: 5% 2%;text-align: center;}
+.portfolio p {font-size: 35px;color: #fff;text-transform: uppercase;}
+.frontpage-post-blog {background: rgb(0, 4, 0);padding: 5% 2%;text-align: center;}
 .frontpage-post-wrapper {padding: 5% 0 ;}
-.frontpage-post-blog h4 {color: #fff;font-size: 30px;text-align: center;text-transform: uppercase;font-weight: 300;}
+.frontpage-post-blog h4 {color: #fff;font-size: 40px;text-align: center;text-transform: uppercase;font-weight: 300;}
 .frontpage-post {float: left;width: 31%;margin: 0 0 5% 2%;background: #fff;border-radius: 3px;}
 .frontpage-post-image {position: relative;overflow: hidden;border-radius: 3px;}
 .frontpage-post img {height: 450px;overflow: hidden;max-width: 100%;width: 100%;}
-.frontpage-post h3 {padding: 2% 0;font-size: 20px;font-weight: 300;}
-.frontpage-post h3 a {margin: 0px 0px 5%;padding:10% 7% 12%;text-align: center;line-height: 35px;font-weight: 300;font-size: 20px;color:#555;text-decoration: none;}
-.frontpage-post p {margin: 0px 0px 5%;padding:10% 7% 12%;text-align: center;line-height: 35px;font-weight: 300;font-size: 13px;color: #777;word-wrap: break-word;}
-.frontpage-post .continue-reading a {text-decoration: none;color: #fff;background:rgb(49, 56, 101) ;padding: 15px 25px;font-size: 11px;}
+.frontpage-post h3 {padding: 2% 0;font-size: 30px;font-weight: 400;}
+.frontpage-post h3 a {margin: 0px 0px 5%;padding:10% 7% 12%;text-align: center;line-height: 35px;font-weight: 400;font-size: 30px;color:#555;text-decoration: none;}
+.frontpage-post p {margin: 0px 0px 5%;padding:10% 7% 12%;text-align: center;line-height: 35px;font-weight: 400;font-size: 15px;color: #777;word-wrap: break-word;}
+.frontpage-post .continue-reading a {text-decoration: none;color: #fff;background:#4CAF50 ;padding: 15px 20px;font-size: 14px;}
 .frontpage-post .continue-reading {margin: 5% 0 15%;}
 .frontpage-post a:hover {opacity: .9;}
 .front-page-pagination a, .blog-page-pagination a {border: 1px solid #CDD1DE;padding: 5px 10px;margin-right: 10px;text-decoration: none;color: #fff;}
@@ -701,7 +701,7 @@ a.frontpage-blog-title {color: #666;background: none;font-weight: 300}
 .front-page-pagination a.next.page-numbers {display: none;}
 .front-page-pagination .page-numbers.current {margin-right: 10px;color:#999;}
 .frontpage-signup {text-align: center;background: #2196F3;padding: 10% 15%;color: #fff;}
-.frontpage-signup p {font-size: 20px;}
+.frontpage-signup p {font-size: 30px;}
 .home .footer-widget .widget {float: left;width: 20%;}
 
 /*--------------------------------------------------------------

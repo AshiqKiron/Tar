@@ -34,6 +34,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
+##### = 0.6.0 - March 12 , 2018  =
+- Tweak: Tweak Frontpage CSS
+- Add: Google UTM parameter URL
+
 
 ##### = 0.5.9 - February 09 , 2018  =
 - Add: Proper CSS vendor prefix
