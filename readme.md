@@ -16,7 +16,7 @@ ___
 
 
 
-**Tested up to: 4.9.4**
+**Tested up to: 4.9.5**
 **License: GPLv2 or later**
 **License URI: http://www.gnu.org/licenses/gpl-2.0.html**
 
@@ -33,6 +33,10 @@ ___
 
 
 # == Changelog ==
+
+##### = 0.6.1 - April 13 , 2018  =
+- Change: Google UTM parameter URL
+
 
 ##### = 0.6.0 - March 12 , 2018  =
 - Tweak: Tweak Frontpage CSS

@@ -86,12 +86,12 @@ function tar_getting_started() {
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
 					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Overall 30+ Beautiful Layouts', 'tar'); ?></h2>
-					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar?utm_source=org&utm_medium=theme&utm_campaign=upsell_link#buy_pro" target="_blank">Upgrade</a></span>
+					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar" target="_blank">Upgrade</a></span>
 					<p><?php esc_attr_e('Beautiful layouts to create absolutely stunning websites', 'tar'); ?></p>
 					<div class="dashboard-upgrade-benefit">
 					<ul>
 						<li><?php esc_attr_e('No hassle! Spend less time building website', 'tar'); ?></li>
-						<li>Check out the <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/tar#demos&utm_source=org&utm_medium=theme&utm_campaign=upsell_link'); ?>">Tar Demo Templates</a></li>
+						<li>Check out the <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar'); ?>">Tar Demo Templates</a></li>
 					</ul>
 
 					</div>
@@ -108,7 +108,7 @@ function tar_getting_started() {
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
 					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Lots of Templates', 'tar'); ?></h2>
-					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar?utm_source=org&utm_medium=theme&utm_campaign=upsell_link#buy_pro" target="_blank">Upgrade</a></span>
+					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar" target="_blank">Upgrade</a></span>
 					<p>Setup your website within mintues</p>
 					<div class="dashboard-upgrade-benefit">
 					<ul>
@@ -130,7 +130,7 @@ function tar_getting_started() {
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
 					<h2 class="dashboard-upgrade-title">Popular Plugin Compatibility</h2>
-					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar?utm_source=org&utm_medium=theme&utm_campaign=upsell_link#buy_pro" target="_blank">Upgrade</a></span>
+					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar" target="_blank">Upgrade</a></span>
 					<p>You can install & use plugins without conflict</p>
 					<div class="dashboard-upgrade-benefit">
 					<ul>
@@ -150,7 +150,7 @@ function tar_getting_started() {
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
 					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Lots of Customization Option', 'tar' ); ?></h2>
-					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar?utm_source=org&utm_medium=theme&utm_campaign=upsell_link#buy_pro" target="_blank">Upgrade</a></span>
+					<span class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar" target="_blank">Upgrade</a></span>
 					<p><?php esc_attr_e('With Tar Pro you get', 'tar' ); ?></p>
 					<div class="dashboard-upgrade-benefit">
 					<ul>
@@ -178,7 +178,7 @@ function tar_getting_started() {
 					</div>
 					<div style="text-align: center;float: none;" class="">
 					<h4 style="font-size: 20px;text-align: center;" class="dashboard-upgrade-title">*7 day Money back guarantee.</h4>
-					<span  class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar?utm_source=org&utm_medium=theme&utm_campaign=upsell_link#buy_pro" target="_blank">Upgrade</a></span>
+					<span  class="dashboard-upgrade-button"><a href="https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar" target="_blank">Upgrade</a></span>
 					
 					</div>
 				</div>
@@ -195,7 +195,7 @@ function tar_getting_started() {
 				</div>
 
 				<div class="col-md-5 dashboard-cta-right">
-					<a target="_blank" class="theme__cta--download--pro" href="<?php echo esc_url('https://asphaltthemes.com/tar?utm_source=org&utm_medium=theme&utm_campaign=upsell_link#buy_pro'); ?>">Upgrade Now</a>
+					<a target="_blank" class="theme__cta--download--pro" href="<?php echo esc_url('https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar'); ?>">Upgrade Now</a>
 					
 				</div>
 			</div>
@@ -207,9 +207,9 @@ function tar_getting_started() {
 			<div class="col-md-4">
 				<h3>Get Support</h3>
 				<ol>
-					<li>Tar <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/?utm_source=org&utm_medium=theme&utm_campaign=upsell_link'); ?>">Documentation</a></li>
+					<li>Tar <a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar'); ?>">Documentation</a></li>
 					<li>WordPress.org <a target="_blank" href="<?php echo esc_url('https://wordpress.org/support/theme/tar'); ?>">Support Forum</a></li>
-					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/contact/?utm_source=org&utm_medium=theme&utm_campaign=upsell_link'); ?>">Email Support</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/tar#buy_pro&utm_source=wporg&utm_medium=upsell&utm_campaign=tar'); ?>">Email Support</a></li>
 				</ol>
 			</div>
 
@@ -224,9 +224,9 @@ function tar_getting_started() {
 			<div class="col-md-4">
 				<h3>Theme Documentation</h3>
 				<ol>
-					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/how-to-setup-front-page/?utm_source=org&utm_medium=theme&utm_campaign=upsell_link'); ?>">How To Set up the Front Page</a></li>
-					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/?utm_source=org&utm_medium=theme&utm_campaign=upsell_link'); ?>">Upgrading To Tar Pro</a></li>
-					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/basic-site-settings/?utm_source=org&utm_medium=theme&utm_campaign=upsell_link'); ?>">Basic Site Settings</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/how-to-setup-front-page/?utm_source=org&utm_medium=tartheme&utm_campaign=upsell_link'); ?>">How To Set up the Front Page</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/?utm_source=org&utm_medium=tartheme&utm_campaign=upsell_link'); ?>">Upgrading To Tar Pro</a></li>
+					<li><a target="_blank" href="<?php echo esc_url('https://asphaltthemes.com/docs/upgrading-to-tar-pro/upgrading-to-tar-pro/basic-site-settings/?utm_source=org&utm_medium=tartheme&utm_campaign=upsell_link'); ?>">Basic Site Settings</a></li>
 				</ol>
 			</div>
 		</div>
