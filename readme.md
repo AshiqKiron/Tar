@@ -16,7 +16,7 @@ ___
 
 
 
-**Tested up to: 4.9.5**
+**Tested up to: 4.9.6**
 **License: GPLv2 or later**
 **License URI: http://www.gnu.org/licenses/gpl-2.0.html**
 
@@ -33,6 +33,12 @@ ___
 
 
 # == Changelog ==
+
+
+##### = 0.6.2 - May 20 , 2018  =
+- Fix: Theme CSS issues
+
+
 
 ##### = 0.6.1 - April 13 , 2018  =
 - Change: Google UTM parameter URL
