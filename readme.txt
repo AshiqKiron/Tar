@@ -34,6 +34,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
+##### = 0.6.3 - June 11 , 2018  =
+- Tweak: CSS issues
+
+
 
 
 ##### = 0.6.2 - May 20 , 2018  =

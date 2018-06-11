@@ -35,6 +35,10 @@ ___
 # == Changelog ==
 
 
+##### = 0.6.3 - June 11 , 2018  =
+- Tweak: CSS issues
+
+
 ##### = 0.6.2 - May 20 , 2018  =
 - Fix: Theme CSS issues
 
