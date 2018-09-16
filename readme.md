@@ -16,7 +16,8 @@ ___
 
 
 
-**Tested up to: 4.9.6**
+**Tested up to: 4.9.8**
+**Required Version up to: 4.5**
 **License: GPLv2 or later**
 **License URI: http://www.gnu.org/licenses/gpl-2.0.html**
 
@@ -33,6 +34,11 @@ ___
 
 
 # == Changelog ==
+
+
+##### = 0.6.5 - August 24 , 2018  =
+- Version bump
+
 
 
 ##### = 0.6.4 - August 24 , 2018  =
