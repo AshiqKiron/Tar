@@ -78,6 +78,20 @@ function tar_setup() {
 	load_theme_textdomain('tar', get_template_directory() . '/languages/');
 
 
+	//Add responsive embed for Gutenberg
+	add_theme_support( 'responsive-embeds' );
+
+
+
+	//Add default Gutenberg editor styles
+	add_theme_support( 'wp-block-styles' );
+
+
+	//Add Gutenberg image align wide feature
+	add_theme_support( 'align-wide' );
+
+
+
 	/*
 	 * Enable support for Post Formats.
 	 * See https://developer.wordpress.org/themes/functionality/post-formats/

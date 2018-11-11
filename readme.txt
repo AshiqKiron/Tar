@@ -36,6 +36,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 
+##### = 0.6.6 - November 12 , 2018  =
+- Change: Upsell description
+- Add: Gutenberg default theme opt in options
+
+
+
 
 ##### = 0.6.5 -  September 17 , 2018  =
 - Update: Tested upto 4.9.8

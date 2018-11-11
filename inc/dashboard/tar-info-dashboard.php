@@ -146,7 +146,7 @@ function tar_getting_started() {
 			<div class="col-md-12 text-block no-bottom-margin">
 				<div class="row">
 					<div class="col-md-7 dashboard-upgrade-left">
-					<img src="<?php echo get_template_directory_uri() . '/assets/images/customize.jpg'; ?>" alt="<?php esc_html_e( 'Lots of Customization Option', 'tar' ); ?>">
+					<img src="<?php echo get_template_directory_uri() . '/assets/images/customize.jpg'; ?>" alt="<?php esc_html_e( 'Lots of Customization Options', 'tar' ); ?>">
 					</div>
 					<div class="col-md-5 dashboard-upgrade-right">
 					<h2 class="dashboard-upgrade-title"><?php esc_attr_e('Lots of Customization Option', 'tar' ); ?></h2>
@@ -173,7 +173,7 @@ function tar_getting_started() {
 			<div class="col-md-12 text-block no-bottom-margin">
 				<div class="row">
 					<div class="col-md-7 dashboard-upgrade-left">
-						<h3 style="padding: 0% 5% 2%;text-align: center;font-size: 30px;"><?php esc_attr_e('What Customers Saying About Tar Pro', 'tar' ); ?></h3>
+						<h3 style="padding: 0% 5% 2%;text-align: center;font-size: 30px;"><?php esc_attr_e('What Customerss Saying About Tar Pro', 'tar' ); ?></h3>
 					<img style="width: 100%;" src="<?php echo get_template_directory_uri() . '/assets/images/tar-theme-reviews.jpg'; ?>" alt="<?php esc_html_e( 'Tar Theme Review  ', 'tar' ); ?>">
 					</div>
 					<div style="text-align: center;float: none;" class="">

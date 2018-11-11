@@ -36,6 +36,13 @@ ___
 # == Changelog ==
 
 
+##### = 0.6.6 - November 12 , 2018  =
+- Change: Upsell description
+- Add: Gutenberg default theme opt in options
+
+
+
+
 ##### = 0.6.5 - August 24 , 2018  =
 - Version bump
 
