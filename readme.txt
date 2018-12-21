@@ -35,6 +35,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
+##### = 0.6.7 - December 22 , 2018  =
+- Add: Gutenberg full bleed image CSS
+
+
 
 ##### = 0.6.6 - November 12 , 2018  =
 - Change: Upsell description

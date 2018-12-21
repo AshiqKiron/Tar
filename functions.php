@@ -82,7 +82,6 @@ function tar_setup() {
 	add_theme_support( 'responsive-embeds' );
 
 
-
 	//Add default Gutenberg editor styles
 	add_theme_support( 'wp-block-styles' );
 
