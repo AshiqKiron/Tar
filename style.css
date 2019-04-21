@@ -6,7 +6,7 @@ Author URI: https://twitter.com/AshiqKiron
 Description: Tar is a lightweight, bloat-free, simple, multipurpose WordPress theme. You definitely wouldn't be able to do everything with Tar but free version is more than enough to kick start your own website within mintues. Lets you customize most of the element Live with very little code touch. The theme comes with Full width layout, easy Logo upload, powerful theme options, Custom CSS Field & lots of Color options. Tar is 100% responsive built with HTML5 & CSS3, it's SEO friendly, mobile optimized & retina ready, translation ready, ready for WooCommerce. Tar is a Free lightweight fast loading WordPress theme and has been thoroughly tested by WordPress coding standard and Gutenberg ready. It's clean and bloat free and has fast loading time Perfect for - Landing Pages, small business, portfolio, corporate, personal websites.
 
 
-Version: 0.6.7
+Version: 0.6.8
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: Tar
@@ -2315,14 +2315,11 @@ div.right-sidebar-widget {margin-top: -12%;}
 
 
 /* Gutenberg Fix*/
-
 .entry-content .alignfull {
     margin-left  : calc( -100vw / 2 + 100% / 2 );
     margin-right : calc( -100vw / 2 + 100% / 2 );
     max-width    : 100vw;
 }
-
-
 
 .entry-content .alignwide {
     margin-left  : -100px;
