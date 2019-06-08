@@ -15,7 +15,7 @@ blank_img.jpg: Created by Asphaltthemes and released under GPL v2
 
 
 
-Tested up to: 5.2
+Tested up to: 5.2.1
 Requirement: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,7 +35,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Changelog ==
 
 
-##### = 0.6.8 -  April 21 , 2018  =
+##### = 0.6.9 -  June 8 , 2019  =
+- Fix: Tested up to 5.2.1
+
+
+
+
+##### = 0.6.8 -  April 21 , 2019  =
 - Fix: Tested up to 5.2
 
 
