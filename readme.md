@@ -16,7 +16,7 @@ ___
 
 
 
-**Tested up to: 5.2.2**
+**Tested up to: 5.3**
 **Required Version up to: 4.5**
 **License: GPLv2 or later**
 **License URI: http://www.gnu.org/licenses/gpl-2.0.html**
@@ -34,6 +34,10 @@ ___
 
 
 # == Changelog ==
+
+
+##### = 0.7.1 -  October 17 , 2019  =
+- Compatibility: Tested up to 5.2.2
 
 
 
